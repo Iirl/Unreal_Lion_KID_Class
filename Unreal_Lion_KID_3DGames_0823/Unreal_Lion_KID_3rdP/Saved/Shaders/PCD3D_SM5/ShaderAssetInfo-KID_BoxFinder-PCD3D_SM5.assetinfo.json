@@ -87,6 +87,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "01D9FB540B9F9A486FD009B0DD85F11C78DCC5FC",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/base_material"
+			]
+		},
+		{
 			"ShaderMapHash": "9CCBF56CDD8E0AD8CC31A8435C88D743B98E9ED1",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
@@ -118,12 +124,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -133,6 +133,12 @@
 			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
 			"Assets": [
 				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -215,6 +221,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "243BD626314AB5DB3B08E098E668FC1047D9154E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
 			"ShaderMapHash": "802899A30A5A1215C355E73544EC9FA189117DB5",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
@@ -260,6 +272,12 @@
 			"ShaderMapHash": "0F284EB0DC6673FD2B600804AAD57F37F0CA5F29",
 			"Assets": [
 				"/Game/City_of_Brass_Enviroment/Materials/Streaks01_D_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "088936A95EAA299A38E6FB38DB4C929C96A40304",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Pattern01_Mat"
 			]
 		},
 		{
@@ -341,63 +359,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D8DC6F3188972949BD5810F66D9C71D360756631",
-			"Assets": [
-				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/M_metal"
-			]
-		},
-		{
 			"ShaderMapHash": "7236D7C4EFC9E306C7B8FE2B8AA911CCE6C120F7",
 			"Assets": [
 				"/Game/City_of_Brass_Enviroment/Materials/Material_instances/Cloth_Red_inst7"
 			]
 		},
 		{
-			"ShaderMapHash": "0C11461D968D5585B904129CFBB3C58E3B17E9B6",
+			"ShaderMapHash": "D8DC6F3188972949BD5810F66D9C71D360756631",
 			"Assets": [
-				"/Game/Stylized_Egypt/Materials/building_materials/M_pyramid"
-			]
-		},
-		{
-			"ShaderMapHash": "91857946E6E08B7EAD1AB66A897F129AE7C85C8C",
-			"Assets": [
-				"/Game/Stylized_Egypt/Materials/props_materials/M_egyptian_statue"
-			]
-		},
-		{
-			"ShaderMapHash": "E4B2CE445899A94E32867BCB3CE82E5A6B7232F1",
-			"Assets": [
-				"/Game/MSPresets/Foliage_Material/Foliage_Material"
-			]
-		},
-		{
-			"ShaderMapHash": "1C9BA892D1F28A0552EC21F686422DA7ADE9DF19",
-			"Assets": [
-				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/M_concrete_paint"
-			]
-		},
-		{
-			"ShaderMapHash": "CFB3B80F06350DAA78347A7675132EDF52B5572F",
-			"Assets": [
-				"/Game/Stylized_Egypt/Materials/building_materials/M_building_wood"
-			]
-		},
-		{
-			"ShaderMapHash": "027CE61B5D19B63794E81783FDA7D550A7B158CC",
-			"Assets": [
-				"/Game/Stylized_Egypt/Materials/plants_materials/M_plants"
-			]
-		},
-		{
-			"ShaderMapHash": "723588EAFFC9F2A94507393C43D34B803B7D5887",
-			"Assets": [
-				"/Game/Stylized_Egypt/Materials/stones_materials/M_stones"
-			]
-		},
-		{
-			"ShaderMapHash": "CABB8804381FE09E5BBE52B19E0949D9F9B46441",
-			"Assets": [
-				"/Game/MS_CardboardBoxV1/Master_Materials/Standard_MasterMaterial"
+				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/M_metal"
 			]
 		},
 		{
@@ -461,6 +431,54 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0C11461D968D5585B904129CFBB3C58E3B17E9B6",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/building_materials/M_pyramid"
+			]
+		},
+		{
+			"ShaderMapHash": "91857946E6E08B7EAD1AB66A897F129AE7C85C8C",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/props_materials/M_egyptian_statue"
+			]
+		},
+		{
+			"ShaderMapHash": "E4B2CE445899A94E32867BCB3CE82E5A6B7232F1",
+			"Assets": [
+				"/Game/MSPresets/Foliage_Material/Foliage_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "1C9BA892D1F28A0552EC21F686422DA7ADE9DF19",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/M_concrete_paint"
+			]
+		},
+		{
+			"ShaderMapHash": "CFB3B80F06350DAA78347A7675132EDF52B5572F",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/building_materials/M_building_wood"
+			]
+		},
+		{
+			"ShaderMapHash": "027CE61B5D19B63794E81783FDA7D550A7B158CC",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/plants_materials/M_plants"
+			]
+		},
+		{
+			"ShaderMapHash": "723588EAFFC9F2A94507393C43D34B803B7D5887",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/stones_materials/M_stones"
+			]
+		},
+		{
+			"ShaderMapHash": "CABB8804381FE09E5BBE52B19E0949D9F9B46441",
+			"Assets": [
+				"/Game/MS_CardboardBoxV1/Master_Materials/Standard_MasterMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "7179FD6AA3447F97FF00C7685AABB22E5284EC51",
 			"Assets": [
 				"/Game/FXVarietyPack/Materials/MI_ky_flare_flash_trs"
@@ -497,6 +515,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "45E1BACB9E140C838C42AEC8137DC072DD0ED2DC",
+			"Assets": [
+				"/Game/FXVarietyPack/Materials/MI_ky_polar_two"
+			]
+		},
+		{
+			"ShaderMapHash": "94FD0CC24D25AC3595CF7202437D56669C64E979",
+			"Assets": [
+				"/Game/FXVarietyPack/Materials/MI_ky_primitive_dynB_two"
+			]
+		},
+		{
 			"ShaderMapHash": "3309FED230A2405C2EE9199BBEF2BF35F23EFB0C",
 			"Assets": [
 				"/Game/Stylized_Egypt/Materials/building_materials/MI_pyramid_Inst"
@@ -516,21 +546,8 @@
 			]
 		},
 		{
-			"ShaderMapHash": "45E1BACB9E140C838C42AEC8137DC072DD0ED2DC",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_polar_two"
-			]
-		},
-		{
-			"ShaderMapHash": "94FD0CC24D25AC3595CF7202437D56669C64E979",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_primitive_dynB_two"
-			]
-		},
-		{
 			"ShaderMapHash": "3FCF5E49BC3144160D3DF106C4A1D471E2707625",
 			"Assets": [
-				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/M_base_concrete_WPO",
 				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/M_brick_WPO"
 			]
 		},
@@ -538,6 +555,12 @@
 			"ShaderMapHash": "993BC10F9CAD296037A1F7C1F1FE7D4F1F8B2729",
 			"Assets": [
 				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/MI_metal_B_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "C056E6B8527E2B0E0B93D2C3A873D30A916A0868",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/landscape_materials/M_landscape_material"
 			]
 		},
 		{
@@ -747,7 +770,37 @@
 			]
 		},
 		{
-			"ShaderMapHash": "24ACF739E1AED9CEC8FE3D59AC21EB71BEC9194B",
+			"ShaderMapHash": "BF9793EC73F6DBC00BDDD63EF33DABB975887B3B",
+			"Assets": [
+				"/Game/地圖/egypt_1"
+			]
+		},
+		{
+			"ShaderMapHash": "6C6EABB1E370005C73B2B9536C3B879A52CD082E",
+			"Assets": [
+				"/Game/地圖/egypt_1"
+			]
+		},
+		{
+			"ShaderMapHash": "12883D21AE08283FC829850640014A860ECBCC1C",
+			"Assets": [
+				"/Game/地圖/egypt_1"
+			]
+		},
+		{
+			"ShaderMapHash": "B561A4FB0E55812BEC6E3AF115FC170EC6C18F5A",
+			"Assets": [
+				"/Game/地圖/egypt_1"
+			]
+		},
+		{
+			"ShaderMapHash": "CB1D8F5D75D999E8BBF7A63038BF420A6F07191B",
+			"Assets": [
+				"/Game/地圖/egypt_1"
+			]
+		},
+		{
+			"ShaderMapHash": "64849EB02213E892662E0FAEFB357A5F64BA9099",
 			"Assets": [
 				"/Game/地圖/egypt_1"
 			]
