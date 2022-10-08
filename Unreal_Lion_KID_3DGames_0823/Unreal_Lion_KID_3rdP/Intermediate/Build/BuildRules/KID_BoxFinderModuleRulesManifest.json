@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"F:\\GiftProject\\Unreal_Lion_KID_Class\\Unreal_Lion_KID_3DGames_0823\\Unreal_Lion_KID_3rdP\\Plugins\\VRM4U\\Source\\VRM4U\\VRM4U.Build.cs",
+		"F:\\GiftProject\\Unreal_Lion_KID_Class\\Unreal_Lion_KID_3DGames_0823\\Unreal_Lion_KID_3rdP\\Plugins\\VRM4U\\Source\\VRM4UEditor\\VRM4UEditor.Build.cs",
+		"F:\\GiftProject\\Unreal_Lion_KID_Class\\Unreal_Lion_KID_3DGames_0823\\Unreal_Lion_KID_3rdP\\Plugins\\VRM4U\\Source\\VRM4UImporter\\VRM4UImporter.Build.cs",
+		"F:\\GiftProject\\Unreal_Lion_KID_Class\\Unreal_Lion_KID_3DGames_0823\\Unreal_Lion_KID_3rdP\\Plugins\\VRM4U\\Source\\VRM4ULoader\\VRM4ULoader.Build.cs",
+		"F:\\GiftProject\\Unreal_Lion_KID_Class\\Unreal_Lion_KID_3DGames_0823\\Unreal_Lion_KID_3rdP\\Plugins\\VRM4U\\Source\\VRM4UMisc\\VRM4UMisc.Build.cs",
+		"F:\\GiftProject\\Unreal_Lion_KID_Class\\Unreal_Lion_KID_3DGames_0823\\Unreal_Lion_KID_3rdP\\Intermediate\\Source\\KID_BoxFinder.Build.cs",
+		"F:\\GiftProject\\Unreal_Lion_KID_Class\\Unreal_Lion_KID_3DGames_0823\\Unreal_Lion_KID_3rdP\\Intermediate\\Source\\KID_BoxFinder.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

@@ -1,0 +1,756 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "CD2B01ED531CE4C68A1892DABE2A6131F535DBC8",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C0B2A7F335FC62A023E1D59DE2ADBD3C72F13800",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "211087F62EFBB7C1BE4972E660D86BC3FFBFC5C0",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EACFA4020082090A51165F6F8F385B9C8ABCC6B2",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B75365FD1D472D9BDDB570FDE8960C5F56236FF0",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "580BAEC620B37DE8A1FE8FC479D667FE85792074",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial",
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6118C2EF81328E746F6736EACA89ADF8A3761CC6",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "84E02F5928102B7C930E738C991C08D607470873",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "DC662FADED5C77B6D4456A8A78B04DCC16D274EC",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "6BC4F45367FAC73ACCAFA8CD9667AB56C2F23608",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C04C5B9338BB5E7A5A56E8EB14F31D97127A7D8B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EC0B9E24AAAB5DF9FA2D660C0AA56DC12CB5C37E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2618E300AA8548720554580F88D0E1391D31DA4C",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "9CCBF56CDD8E0AD8CC31A8435C88D743B98E9ED1",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "51C7B05DD3F62879F54D0D1972E720772888456B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1F40DFD96D8AE3D0F8486C03725DDC2EEC53AD0",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "A6AA03CB707A2A35E6B21885A08ED26D847E4CE1",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "ECC697C48BA966F0825110EFF887124C8B715EF3",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6B155BF25ABE1B5D74C1CCF6398D60B69E8E7C0A",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7E49B2C7E4F45A769712E5F5D597423E50A31090",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3F7895F3B3EC85C81839B53617DEF4F1A94DA828",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "8C73641D32B7DA2DEF6B40664D0A99BA9A0CD673",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1A91267099E00CB6E114581FBC960569A39E5CE2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6CE9731DBD31520A0F28233FD6C531B40ED2E593",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "25505245776F29D612F7A2A47DF00B8F08CF6DFD",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8ACAFDF4D8347920962FFA6E6E976F915609C626",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "B43D983CD3BDA59466984205703D5D9E6F5FE1F6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "CC55EA1DC806B30DD6AE1628892C72F7943F02A8",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "CA5E52CACC8C177679D06C910BA38FFD19582423",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "802899A30A5A1215C355E73544EC9FA189117DB5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "E9E6C9BB8C80820E8A0EDD8DCFEE711FDDF17CF1",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "B886D890A9974D0A7698C5901A4E2DEF63547DAB",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Paint_Ground"
+			]
+		},
+		{
+			"ShaderMapHash": "4DB2CD24D42B47A7E4C74EF00A56C6756F767945",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Paint_Ground"
+			]
+		},
+		{
+			"ShaderMapHash": "86458C641D4BF65A4DCF781E627B12C6F16CBC4D",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Enviro_Substance_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "A01780D520ECE2DD396CC478A5E43CE663D20985",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Cloth_Substance_material"
+			]
+		},
+		{
+			"ShaderMapHash": "2F20F8D77DBEB5493067245DD3D0DE94DE49EDA9",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Enviro_Substance_Alpha_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "0F284EB0DC6673FD2B600804AAD57F37F0CA5F29",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Streaks01_D_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "D5D10DBE4E4244A7464F82A46F99AA62558A1C09",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Enviro_Substance_Emissive_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "D131E5D8FF7D6A130808317238B48B870A117DF2",
+			"Assets": [
+				"/VRM4U/MaterialUtil/M_VrmUnlitTexture"
+			]
+		},
+		{
+			"ShaderMapHash": "14D337C1A97740D74651CCCA232D43CFEC6F2669",
+			"Assets": [
+				"/VRM4U/MaterialUtil/M_VrmSimple"
+			]
+		},
+		{
+			"ShaderMapHash": "A9D340E913BB310D048B9CFE4DA59C1DA5B32F53",
+			"Assets": [
+				"/VRM4U/MaterialUtil/M_VrmSimple"
+			]
+		},
+		{
+			"ShaderMapHash": "46571604F653444D707653EF5425F74E9745C368",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Foliage_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "FCC0A37035DE022451E8C035FEC5F4CEDF8934B6",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/plants_materials/M_tree"
+			]
+		},
+		{
+			"ShaderMapHash": "14DF6D75346B427A7A297DF0D42BB31C05A7493E",
+			"Assets": [
+				"/Game/FXVarietyPack/Materials/M_ky_flare_flash"
+			]
+		},
+		{
+			"ShaderMapHash": "CE5D72DE311D46F68FCE2027B9A3DAF2DB389E47",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E171CFA61F0313D35C414F4721E393617AAFB691",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "14CC31EF34BEE66179FCF777D126490DD5DFA5DD",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "648B34FBF1A6265873DAA2FDE756E9E90165B27A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "08AB2FB6F0B0D7F55EC432ED817F96CBDE053FE7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "23B1EF696CB55868211558A2D14ECFFBB29B851A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "D8DC6F3188972949BD5810F66D9C71D360756631",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/M_metal"
+			]
+		},
+		{
+			"ShaderMapHash": "7236D7C4EFC9E306C7B8FE2B8AA911CCE6C120F7",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Material_instances/Cloth_Red_inst7"
+			]
+		},
+		{
+			"ShaderMapHash": "0C11461D968D5585B904129CFBB3C58E3B17E9B6",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/building_materials/M_pyramid"
+			]
+		},
+		{
+			"ShaderMapHash": "91857946E6E08B7EAD1AB66A897F129AE7C85C8C",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/props_materials/M_egyptian_statue"
+			]
+		},
+		{
+			"ShaderMapHash": "E4B2CE445899A94E32867BCB3CE82E5A6B7232F1",
+			"Assets": [
+				"/Game/MSPresets/Foliage_Material/Foliage_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "1C9BA892D1F28A0552EC21F686422DA7ADE9DF19",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/M_concrete_paint"
+			]
+		},
+		{
+			"ShaderMapHash": "CFB3B80F06350DAA78347A7675132EDF52B5572F",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/building_materials/M_building_wood"
+			]
+		},
+		{
+			"ShaderMapHash": "027CE61B5D19B63794E81783FDA7D550A7B158CC",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/plants_materials/M_plants"
+			]
+		},
+		{
+			"ShaderMapHash": "723588EAFFC9F2A94507393C43D34B803B7D5887",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/stones_materials/M_stones"
+			]
+		},
+		{
+			"ShaderMapHash": "CABB8804381FE09E5BBE52B19E0949D9F9B46441",
+			"Assets": [
+				"/Game/MS_CardboardBoxV1/Master_Materials/Standard_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "320C817B603967F57C960D8BC88B8DF14B539255",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MI_VrmUnlitTransparent"
+			]
+		},
+		{
+			"ShaderMapHash": "BDC4C65F76F135B9163451D903ABA793EE635A9B",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MI_VrmUnlit"
+			]
+		},
+		{
+			"ShaderMapHash": "3110BD1286EB087337F1CC1C0B650365A9515DA6",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MI_VrmUnlit"
+			]
+		},
+		{
+			"ShaderMapHash": "87E036C7194517017DEBFBEB0CEF08C8CBDDF4B9",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MI_VrmSimpleTransparent"
+			]
+		},
+		{
+			"ShaderMapHash": "4777BB83DCEAE3B0D200042411F8F4F633A1A1D2",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MI_VrmSimpleTransparent"
+			]
+		},
+		{
+			"ShaderMapHash": "E9B02E06679D76119336EF6922337A6656DF45DD",
+			"Assets": [
+				"/Game/FXVarietyPack/Materials/M_ky_smoke01"
+			]
+		},
+		{
+			"ShaderMapHash": "17DAED471900B93825D3FF36761D6BD252AA7FD1",
+			"Assets": [
+				"/Game/FXVarietyPack/Materials/M_ky_polar"
+			]
+		},
+		{
+			"ShaderMapHash": "CFE57CA76633D423521E87ADB4AF42817C97A64A",
+			"Assets": [
+				"/Game/FXVarietyPack/Materials/M_ky_primitive"
+			]
+		},
+		{
+			"ShaderMapHash": "BF2C45C029769C0A8435B4B175B4A0F4E116563E",
+			"Assets": [
+				"/Game/FXVarietyPack/Materials/M_ky_primitive_dyn2"
+			]
+		},
+		{
+			"ShaderMapHash": "4EE46D4C8485B272BEABEF38844E5255073B9E5C",
+			"Assets": [
+				"/Game/FXVarietyPack/Materials/M_ky_base_turbulence"
+			]
+		},
+		{
+			"ShaderMapHash": "7179FD6AA3447F97FF00C7685AABB22E5284EC51",
+			"Assets": [
+				"/Game/FXVarietyPack/Materials/MI_ky_flare_flash_trs"
+			]
+		},
+		{
+			"ShaderMapHash": "3B2B19FA5414E6DAD9643AF0062E6F480FA16D8E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "061D98ADD2B2B02F3595B5D756EB117BD3711CD3",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Enviro_WorldUV_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "13B57263E0FB47AEEE4CEB6E33FB58A7D18DF7AE",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Enviro_WorldUV_Simple_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "53E331F945789C092AC1EB7188E6B5EE0A54836B",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Enviro_Int_WorldUV_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "3309FED230A2405C2EE9199BBEF2BF35F23EFB0C",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/building_materials/MI_pyramid_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "BA010AFC36926AC94ABB7D635D5A06FD91E823A4",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/MI_concrete_paint_01_Inst",
+				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/MI_concrete_paint_02_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "A1BDAA4F493DDFC855FEA52492574F5418626AD7",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/plants_materials/MI_plants_01_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "45E1BACB9E140C838C42AEC8137DC072DD0ED2DC",
+			"Assets": [
+				"/Game/FXVarietyPack/Materials/MI_ky_polar_two"
+			]
+		},
+		{
+			"ShaderMapHash": "94FD0CC24D25AC3595CF7202437D56669C64E979",
+			"Assets": [
+				"/Game/FXVarietyPack/Materials/MI_ky_primitive_dynB_two"
+			]
+		},
+		{
+			"ShaderMapHash": "3FCF5E49BC3144160D3DF106C4A1D471E2707625",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/M_base_concrete_WPO",
+				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/M_brick_WPO"
+			]
+		},
+		{
+			"ShaderMapHash": "993BC10F9CAD296037A1F7C1F1FE7D4F1F8B2729",
+			"Assets": [
+				"/Game/Stylized_Egypt/Materials/building_materials/base_materials/MI_metal_B_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "07B6FE338CD5851708162F669C90F6B22AB4029D",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/M_VrmMToonBaseOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "68078C7FCF9267BAB942E7F60F49577744E6709D",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/M_VrmMToonBaseOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "084A98FF61FDBC03EB0645AF285885F6DD4C091E",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonBaseLitOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "3AEC737C87995C040923FA2864ECDD8B5195D30D",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonBaseLitOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "7075D9165E0DA8202A634C87729C3DA04EFD16FA",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonBaseUnlitOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "4E1486984DF650F926E7412850E078B673C9AE29",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonBaseUnlitOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "4367E6229302B1DBFED56810458F3C9C2FBD66F2",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptLitOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "12074E5B26F784586F2455930B23E3C60B0A513D",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptLitOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "650ACD00FC6015E641BA2AFD3CBBE8171D3535E0",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonBaseUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "2F430191CEDFE3C1B614152E9249E427013A2EA5",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonBaseUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "4E6AA1C5E9F1C54E1C247D053663E9326D54E277",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptUnlitOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "A1743C9691A4BB72EC5F4A181A6183B25F9C1C72",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptUnlitOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "584C8164049F0FE39B90AB430AA5CF6EF7029C8F",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonBaseLitTranslucent",
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptLitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "0388C8868DD7461D11417302AB1FEC4E9E4B2D24",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonBaseLitTranslucent",
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptLitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "D721D5B7CA22D63AEBEF217180BF1565CF0D66FB",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptLitOpaqueTwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "C4669AB31522B1E8D339C8630EC29B368C592EA9",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptLitOpaqueTwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "B3E4FDB50BDC0E44F3ED28EB31C7D76EC956E029",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/SSS/MI_VrmMToonOptSSS"
+			]
+		},
+		{
+			"ShaderMapHash": "08255FD2DA67FB1452DDEAB42D14C2956B153F35",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/SSS/MI_VrmMToonOptSSS"
+			]
+		},
+		{
+			"ShaderMapHash": "7FEA4018695B60CDB696765977E21BB076AAE017",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptOutline"
+			]
+		},
+		{
+			"ShaderMapHash": "250E5A699EB635D514E33C158C839CAF392C8A1C",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptOutline"
+			]
+		},
+		{
+			"ShaderMapHash": "66EE79EEB625B93784F090FB6AE10EC10E158A42",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptUnlitOpaqueTwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "7333CFC724DC08A35BF8D55AE6D5745E0059F4B9",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptUnlitOpaqueTwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "0195EC07A3D8851E855A1F61B63A804F7C306D8B",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "8339F2B685BEAC8F8E3BF1DBA85B986FB53B9B2E",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "5268038F4A124AA40720AEBA2074014FDB8B783A",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptLitTranslucentTwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "DF7FA4575E653A31F3319759E02D4FC1ACD3A0D6",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptLitTranslucentTwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "424EAF395BF448B284543B2EF26AD3C156B69343",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/SSS/MI_VrmMToonOptSSSTwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "4214D9D7F70570AE4FB272DDD071075B7181E587",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/SSS/MI_VrmMToonOptSSSTwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "83E4EB41BF8395A6E047A3EF61EF4B4CE8894C56",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/SSS/MI_VrmMToonOptSSSProfile"
+			]
+		},
+		{
+			"ShaderMapHash": "CD8D83281158D090F9C71E0D86929BB5D757D10E",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/SSS/MI_VrmMToonOptSSSProfile"
+			]
+		},
+		{
+			"ShaderMapHash": "5CD0E24AA49A9DFBF526D52B4FEE81C771F46B11",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptUnlitTranslucentTwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "4DA6E133C3D6DD9F10C981E428F29D2F1A419076",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/MI_VrmMToonOptUnlitTranslucentTwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "8FCCC59551F3968947BA446BBC123B943BFD859A",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/SSS/MI_VrmMToonOptSSSProfileTwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "23E72947819AAF24C9830ED20A1E4FFE87EDC492",
+			"Assets": [
+				"/VRM4U/MaterialUtil/MToonUtil/SSS/MI_VrmMToonOptSSSProfileTwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "24ACF739E1AED9CEC8FE3D59AC21EB71BEC9194B",
+			"Assets": [
+				"/Game/地圖/egypt_1"
+			]
+		}
+	]
+}

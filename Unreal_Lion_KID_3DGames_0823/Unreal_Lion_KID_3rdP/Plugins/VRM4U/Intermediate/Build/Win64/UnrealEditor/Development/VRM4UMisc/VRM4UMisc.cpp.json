@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\plugins\\vrm4u\\source\\vrm4umisc\\private\\vrm4umisc.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\intermediate\\build\\win64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\plugins\\vrm4u\\intermediate\\build\\win64\\unrealeditor\\development\\vrm4umisc\\definitions.vrm4umisc.h",
+            "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\plugins\\vrm4u\\source\\vrm4umisc\\private\\vrm4umisc.h",
+            "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\plugins\\vrm4u\\source\\vrm4umisc\\private\\vrm4umisclog.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

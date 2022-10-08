@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\plugins\\vrm4u\\intermediate\\build\\win64\\unrealeditor\\development\\vrm4ueditor\\module.vrm4ueditor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\intermediate\\build\\win64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\plugins\\vrm4u\\intermediate\\build\\win64\\unrealeditor\\development\\vrm4ueditor\\definitions.vrm4ueditor.h",
+            "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\plugins\\vrm4u\\intermediate\\build\\win64\\unrealeditor\\inc\\vrm4ueditor\\vrm4ueditor.init.gen.cpp",
+            "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\plugins\\vrm4u\\intermediate\\build\\win64\\unrealeditor\\inc\\vrm4ueditor\\vrmeditorbpfunctionlibrary.gen.cpp",
+            "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\plugins\\vrm4u\\source\\vrm4ueditor\\public\\vrmeditorbpfunctionlibrary.h",
+            "f:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget2d.h",
+            "f:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget.h",
+            "f:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\texturerendertarget.generated.h",
+            "f:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\texturerendertarget2d.generated.h",
+            "f:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\engineversioncomparison.h",
+            "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\plugins\\vrm4u\\intermediate\\build\\win64\\unrealeditor\\inc\\vrm4ueditor\\vrmeditorbpfunctionlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

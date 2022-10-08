@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\intermediate\\source\\kid_boxfinder.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\intermediate\\build\\win64\\kid_boxfinder\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\giftproject\\unreal_lion_kid_class\\unreal_lion_kid_3dgames_0823\\unreal_lion_kid_3rdp\\intermediate\\build\\win64\\unrealgame\\development\\kid_boxfinder\\definitions.kid_boxfinder.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
